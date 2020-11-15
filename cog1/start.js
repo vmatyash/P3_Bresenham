@@ -48,7 +48,8 @@ require(["dojo", "dojo/parser", "dojo/domReady!"], function(dojo) {
 			// "cog1" : "/~gers/cog1_sol/cog1"
 			//"cog1" : "/vmatyashComputergrafik_1_SS20.github.io/cog1_JS_Bresenham/cog1"
 			//"cog1" : "./myModel/cog1"
-			"cog1" : "/cog1_JS_Bresenham/cog1"
+			//"cog1" : "/cog1_JS_Bresenham/cog1"
+			"cog1" : "https://vmatyash.github.io/P3_Bresenham/cog1"
 		},
 		// Add one entry for each custom module.
 		// This is, among others, necessary to apply the path parameter.
